@@ -35,9 +35,9 @@ Raw Dataset
     ↓
 Excel Cleaning
     ↓
-PostgreSQL Business Analysis
-    ↓
 Python EDA & Feature Engineering
+    ↓
+PostgreSQL Business Analysis
     ↓
 Power BI Dashboard
     ↓
